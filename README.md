@@ -1,20 +1,19 @@
-# 🚀 Maze Run (Space Maze)
+# 🎮 Maze Run
 
-A 3D space-themed maze game developed in Godot Engine during my final year at Mount Albert Grammar School.
+A 3D maze game developed in Godot Engine during my final year at Mount Albert Grammar School.
 
 ![Godot Engine](https://img.shields.io/badge/Godot-4.0-478CBF?logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?logo=godot-engine&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🎮 About
+## 🏐 About
 
-Maze Run is a 3D rolling ball maze game set in space. Navigate through three challenging levels, collect coins, avoid enemies, and reach the finish line! The game features:
+Maze Run is a 3D rolling ball maze game. Navigate through three progessivly challenging levels, avoid enemies and collect coins to win the game! The game features:
 
 - **3 Unique Levels** - Progressive difficulty with custom-designed mazes
 - **Physics-Based Movement** - Rolling ball mechanics with realistic physics
-- **Space Theme** - Custom 3D models created in Blender with space-themed textures
+- **3D Theme** - Custom 3D models created in Blender with textures
 - **Score System** - Collect coins to increase your score
-- **Menu System** - Intuitive UI with level selection
+- **Menu System** - Intuitive UI with replay options
 
 ## 🕹️ Controls
 
@@ -71,7 +70,7 @@ Maze-Run/
 
 ## 🎓 Development Journey
 
-This project was developed as part of my Digital Technology class at Mount Albert Grammar School. It represents:
+This project was developed as part of my Digital Technology subject at Mount Albert Grammar School. It represents:
 
 - Learning 3D game development from scratch
 - Understanding physics-based gameplay mechanics
@@ -88,11 +87,11 @@ This project was developed as part of my Digital Technology class at Mount Alber
 
 ## 🤝 Contributing
 
-This is a personal educational project, but feedback and suggestions are welcome! Feel free to open an issue if you find bugs or have ideas for improvements.
+This is a personal educational project, but feedback and suggestions are welcome!
 
 ## 📝 License
 
-This project is open source and available under the MIT License.
+This project is open source.
 
 ## 👨‍💻 Author
 
@@ -101,4 +100,4 @@ Mount Albert Grammar School - Class of 2023
 
 ---
 
-*Made with ❤️ using Godot Engine and Blender*
+*Made with Godot Engine and Blender*
